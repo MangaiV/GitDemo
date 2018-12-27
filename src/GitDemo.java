@@ -7,7 +7,7 @@ public class GitDemo {
 		String favocolor = "Blue and Pink";
 		System.out.print("My Favo color is : ");
 		System.out.print(favocolor);
-	/*System.out.print(favofood); */
+		System.out.print(favocolor); 
 	}
 
 }

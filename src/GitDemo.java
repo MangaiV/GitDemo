@@ -9,6 +9,8 @@ public class GitDemo {
 		System.out.print(favocolor);
 		System.out.print(favocolor); 
 		System.out.print("First Java Project");
+		System.out.print("I Love my Country");
+		
 	}
 
 }

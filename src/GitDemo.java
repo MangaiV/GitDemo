@@ -8,8 +8,9 @@ public class GitDemo {
 		System.out.print("My Favo color is : ");
 		System.out.print(favocolor);
 		System.out.print(favocolor); 
-		System.out.print("First Java Project");
-		System.out.print("I Love my Country");
+		System.out.print("\n First Java Project");
+		System.out.print("\n I Love my Country");
+		System.out.print("\n I Love my family");
 		
 	}
 

@@ -12,6 +12,7 @@ public class GitDemo {
 		System.out.print("\n I Love my Country");
 		System.out.print("\n I Love my family");
 		System.out.print("\n I Love my Life");
+		System.out.print("\n Learning Jenkins is easy");
 	}
 
 }
